@@ -56,3 +56,4 @@ Possible Changes to Logging Procedures to Facilitate Analytics Gathering:
 - Report of how many science targets of the total were observed, how many scans for each/average scans per target, was a total sequence taken
 - Pull seeing information over the night, report average?
 - Consolidate all statistics into a single report - need to decide on format
+- Test adding text to starlog comments or obslog to see if changes in observer recording allow analysis to be automated as expected
